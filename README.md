@@ -16,18 +16,24 @@
 
 ### Tech Stack
 ![](https://img.shields.io/badge/React.JS-ClientSide-informational?style=for-the-badge&logo=react&color=61dafb)
-![](https://img.shields.io/badge/Next.JS-ClientSide-informational?style=for-the-badge&logo=next.js&color=000000) 
+![](https://img.shields.io/badge/Next.JS-ClientSide-informational?style=for-the-badge&logo=next.js&color=000000)
+
 ![](https://img.shields.io/badge/Express.JS-ServerSide-informational?style=for-the-badge&logo=express&color=db7b1b)
-![](https://img.shields.io/badge/Node.JS-ServerSide-informational?style=for-the-badge&logo=node.js&color=339933) 
+![](https://img.shields.io/badge/Node.JS-ServerSide-informational?style=for-the-badge&logo=node.js&color=339933)
+
 ![](https://img.shields.io/badge/MongoDB-Database-informational?style=for-the-badge&logo=mongoDB&color=47a248)
+
 ![](https://img.shields.io/badge/Socket.io-WebSockets-informational?style=for-the-badge&logo=socket.io&color=010101)
 ![](https://img.shields.io/badge/Mocha-Testing-informational?style=for-the-badge&logo=mocha&color=8D6748)
-![](https://img.shields.io/badge/GitHubActions-Hosting-informational?style=for-the-badge&logo=github-actions&color=2088ff)
-![](https://img.shields.io/badge/Heroku-Hosting-informational?style=for-the-badge&logo=heroku&color=430098)
+
+![](https://img.shields.io/badge/GitHubActions-CI/CD-informational?style=for-the-badge&logo=github-actions&color=2088ff)
 ![](https://img.shields.io/badge/Sentry-ErrorTracking-informational?style=for-the-badge&logo=sentry&color=362D59)
+![](https://img.shields.io/badge/Heroku-Hosting-informational?style=for-the-badge&logo=heroku&color=430098)
+
 ![](https://img.shields.io/badge/Git-VersionControl-informational?style=for-the-badge&logo=git&color=F05032)
 ![](https://img.shields.io/badge/GitHub-VersionControl-informational?style=for-the-badge&logo=github&color=181717)
 ![](https://img.shields.io/badge/BitBucket-VersionControl-informational?style=for-the-badge&logo=bitbucket&color=0052CC)
+
 ![](https://img.shields.io/badge/Trello-Management-informational?style=for-the-badge&logo=trello&color=0079bf)
 ![](https://img.shields.io/badge/Slack-Management-informational?style=for-the-badge&logo=slack&color=4A154B)
 
