@@ -26,6 +26,12 @@
 ![](https://img.shields.io/badge/InfluxDB-Database-informational?style=for-the-badge&logo=influxDB&color=22ADF6)
 ![](https://img.shields.io/badge/AWS-Database-informational?style=for-the-badge&logo=amazon-AWS&color=232F3E)
 ![](https://img.shields.io/badge/Firebase-Database-informational?style=for-the-badge&logo=firebase&color=FFCA28)
+![](https://img.shields.io/badge/Redis-Database-informational?style=for-the-badge&logo=redis&color=DC382D)
+#### UI/UX
+![](https://img.shields.io/badge/MaterialUI-UILibrary-informational?style=for-the-badge&logo=material-ui&color=0081cb)
+![](https://img.shields.io/badge/Bootstrap-UILibrary-informational?style=for-the-badge&logo=bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Figma-Editing-informational?style=for-the-badge&logo=figma&color=F24E1E)
+![](https://img.shields.io/badge/Adobe-Editing-informational?style=for-the-badge&logo=adobe&color=FF0000)
 #### Other Tools
 ![](https://img.shields.io/badge/Socket.io-WebSockets-informational?style=for-the-badge&logo=socket.io&color=010101)
 ![](https://img.shields.io/badge/Mocha-Testing-informational?style=for-the-badge&logo=mocha&color=8D6748)
