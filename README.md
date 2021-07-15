@@ -1,5 +1,8 @@
 [![Header](https://rayner-bucket.s3-ap-southeast-2.amazonaws.com/utils/github-banner.png "Header")](https://www.genspeakapp.com)
+
 <h1 align="center"> Hello! :wave:</h1>
+
+<br />
 
 > Fullstack Web Dev and Engineer from Australia
 
